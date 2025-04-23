@@ -1,6 +1,8 @@
 # lmrse
 Linear regression with clustered robust standard errors Use lmrse With (In) R Software
 
+https://www.youtube.com/watch?v=WtkaZYdd3Ek
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
